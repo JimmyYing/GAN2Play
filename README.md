@@ -25,7 +25,7 @@ It is **ok without any dataset and just play the pretrained GAN**.
 ##
 Train on Guassian but generate on uniform will make the image looks better,
 but the uniform images look more similar.
-<p align="center"><img width="80%" src="img/3.jpeg" /></p>
+<p align="center"><img width="70%" src="img/3.jpeg" /></p>
 
 
 ## Continues change on row and colume.
