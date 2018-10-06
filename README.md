@@ -12,7 +12,9 @@ Let you to play with pretrained GAN (SAGAN + SNGAN + D2GAN)
 
 <p align="center"><img width="100%" src="img/0925.2125.png" /></p>
 
-change to your dir of dataset: put your image in **file train**.
+
+# change to your dir of dataset: 
+put your image in **file train**.
 It is **ok without any dataset and just play the pretrained GAN**.
 <p align="center"><img width="60%" src="img/1.png" /></p>
 
@@ -31,7 +33,7 @@ but the uniform images look more similar.
 
 
 
-# multi_noise display.
+## multi_noise display.
 show different results in mult std.
 small std make image looks more similar,
 large std make image looks more difference.
