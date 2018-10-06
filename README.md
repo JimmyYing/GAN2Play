@@ -10,7 +10,7 @@ Let you to play with pretrained GAN (SAGAN + SNGAN + D2GAN)
 * dataset: CelebA (img_align_celeba_png)
 
 # Results
-
+Train on 1080TI 8 hours
 <p align="center"><img width="100%" src="img/0925.2125.png" /></p>
 
 
