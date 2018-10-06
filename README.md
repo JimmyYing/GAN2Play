@@ -7,6 +7,7 @@ Let you to play with pretrained GAN (SAGAN + SNGAN + D2GAN)
 * python 3.6
 * pytorch 0.4
 * test on windows 10, cuda 9.0 
+* dataset: CelebA (img_align_celeba_png)
 
 # Results
 
