@@ -42,6 +42,6 @@ large std make image looks more difference.
 
 
 # ref
-SAGAN: https://github.com/heykeetae/Self-Attention-GAN
+SAGAN: https://github.com/heykeetae/Self-Attention-GAN \
 D2GAN: https://github.com/search?q=D2GAN
 
