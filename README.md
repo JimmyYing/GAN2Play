@@ -39,3 +39,9 @@ show different results in mult std.
 small std make image looks more similar,
 large std make image looks more difference.
 <p align="center"><img width="70%" src="img/5.jpeg" /></p>
+
+
+# ref
+SAGAN: https://github.com/heykeetae/Self-Attention-GAN
+D2GAN: https://github.com/search?q=D2GAN
+
