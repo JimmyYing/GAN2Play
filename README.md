@@ -16,9 +16,9 @@ Let you to play with pretrained GAN (SAGAN + SNGAN + D2GAN)
 # change to your dir of dataset: 
 put your image in **file train**.
 It is **ok without any dataset and just play the pretrained GAN**.
-<p align="center"><img width="60%" src="img/1.png" /></p>
+<p align="center"><img width="50%" src="img/1.png" /></p>
 
-<p align="center"><img width="80%" src="img/2.png" /></p>
+<p align="center"><img width="70%" src="img/2.png" /></p>
 
 
 
