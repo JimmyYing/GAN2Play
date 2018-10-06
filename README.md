@@ -2,7 +2,7 @@
 
 Let you to play with pretrained GAN (SAGAN + SNGAN + D2GAN)
 
-#Requirement:
+# Requirement:
 * old fastai 0.7 (put in the same file)
 * python 3.6
 * pytorch 0.4
