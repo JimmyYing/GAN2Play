@@ -35,4 +35,4 @@ but the uniform images look more similar.
 show different results in mult std.
 small std make image looks more similar,
 large std make image looks more difference.
-<p align="center"><img width="90%" src="img/5.jpeg" /></p>
+<p align="center"><img width="70%" src="img/5.jpeg" /></p>
